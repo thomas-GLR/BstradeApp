@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "630722860534",
+    "project_id": "treecorp-bstrade-project-app",
+    "storage_bucket": "treecorp-bstrade-project-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630722860534:android:fd63fc8a92da2ad1b223d7",
+        "android_client_info": {
+          "package_name": "com.treecorp.bstrade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630722860534-v4sk3sn2ohbc51gpe2e34nfq6p8m5t44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp8TjXCsHLL5JKJ4oeoldy8TtNDOtqZus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630722860534-v4sk3sn2ohbc51gpe2e34nfq6p8m5t44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
